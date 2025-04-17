@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 
 ```bash
-git clone https://github.com/usuario/Agent_Analise_Dados.git
+git clone https://github.com/Caiojosue/Agent_Analise_Dados
 cd Agent_Analise_Dados
 ```
 E logo após execute o arquivo 
